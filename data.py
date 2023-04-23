@@ -6,7 +6,7 @@ BODY_ORDER = {
 
     "firstName": "Илона",
     "lastName": "Илона",
-    "address": "Городецкая 205",
+    "address": "Городецкая",
     "metroStation": 13,
     "phone": "+79002741001",
     "rentTime": 3,
